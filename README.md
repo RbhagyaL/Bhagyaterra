@@ -1,1 +1,1 @@
-# Bhagyaterra
+# terraform-azure-bhagyastorage
