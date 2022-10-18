@@ -1,1 +1,1 @@
-# terraform-azure-bhagyastorage
+# terraform-azure-bhagya-storage
